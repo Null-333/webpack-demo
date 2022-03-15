@@ -1,0 +1,29 @@
+{
+  "name": "webpack-multipage",
+  "version": "1.0.0",
+  "description": "webpack config multipage",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TingYinHelen/webpack-multipage.git"
+  },
+  "keywords": [
+    "multipage",
+    "webpack"
+  ],
+  "author": "Helen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TingYinHelen/webpack-multipage/issues"
+  },
+  "homepage": "https://github.com/TingYinHelen/webpack-multipage#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "html-loader": "^2.1.2",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
