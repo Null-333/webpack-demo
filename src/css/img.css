@@ -1,0 +1,6 @@
+.imgBox {
+    width: 690px;
+    height: 518px;
+    border: 1px solid red;
+    background: url(../img/test.jpg);
+}
